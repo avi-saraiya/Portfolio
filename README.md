@@ -1,5 +1,6 @@
 # Portfolio
 An overview of who I am, and the projects I have made:
+
 Hey! My name is Avi Saraiya. I'm a Level II Software Engineering and Management Student at McMaster University. Currently, I am looking for a CO-OP - preferably a 4, 8, or 12 month term.
 I'm always on the lookout for a fun and interesting project to do, and while this is a never-ending quest, here has been my journey so far.
 
