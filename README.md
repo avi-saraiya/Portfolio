@@ -14,7 +14,7 @@ Project:     Rattlesnake - A C Implementation of the Boardgame "Chameleon"<br>
 Description: Implemented the core mechanics of the "Chameleon" board game in C, including player actions, turn-based gameplay, and dynamic game state management.<br>
              Created an intuitive graphical user interface (GUI) to enhance user experience, allowing for easy interaction and game control.<br>
              Integrated both the game logic and GUI elements, ensuring smooth performance and providing users with a visually engaging and interactive experience.<br>
-Link:        
+Link:        https://github.com/Sam-Scott-McMaster/the-team-assignment-team-15.git
 
 Project:     Baby Names Data Analyzer - A Bash Command Line Utility<br>
 Description: Created a command line utility using Bash that analyzed all baby names in the US over 143 years and output the frequency of the entered name in a specific gender category.<br>
@@ -28,7 +28,7 @@ Description: Built a Java-based quiz application with a graphical user interface
              Developed a score tracking system that displays the user's final score at the end of the quiz, with an option to retry, resetting the quiz to the starting frame for a new attempt.<br>
 Link:        https://github.com/avi-saraiya/Java-Quiz.git
 
-Project:     Tic Tac Toe - A Dynamic Java Implementation
+Project:     Tic Tac Toe - A Dynamic Java Implementation<br>
 Description: Enabled flexible tic tac toe gameplay by allowing players to choose between human vs. human, human vs. computer, or computer vs. computer modes.<br>
              Allowed users to customize the game board by defining the number of rows and columns, as well as specifying how many counters are needed in a line to win.<br>
              Implemented game logic that dynamically adjusts to different grid sizes and winning conditions while ensuring smooth interaction for both human and computer players.<br>
