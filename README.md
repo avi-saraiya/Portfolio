@@ -4,12 +4,33 @@ An overview of who I am, and the projects I have made:
 Hey! My name is Avi Saraiya. I'm a Level II Software Engineering and Management Student at McMaster University. Currently, I am looking for a CO-OP - preferably a 4, 8, or 12 month term.
 I'm always on the lookout for a fun and interesting project to do, and while this is a never-ending quest, here has been my journey so far.
 
+## AI Tag Scan 
+Created a fullstack application where the user can upload the image of their clothing tag, and recieve tips on how to better care for the clothes based on the information found on the tag.<br>
+Used a Google Lens API to analyze the clothing tag image.<br>
+Passed the clothing tag info into a Google gemini-1.5-flash model to recieve the clothing care recommendations.<br>
+Used the react JavaScript library for the frontend, Python for the backend, and the flask library for handling requests between the front and back ends.
+
+Link: https://github.com/avi-saraiya/Tag_Scan.git
+
+## AI Recipe Recommender
+Created an application that allows the user to take pictures of ingredients, and receive recipe recommendations based on the uploaded images.<br>
+Used the cv2 python library for computer vision, ResNet deep learning architecture for image processing, and a gpt-3.5 model to give recommendations.
+
+Link: https://github.com/avi-saraiya/AI_recipe_recommender.git
+
 ## Byte Brawl - A Combat Video Game built using Pygame
 Programmed a combat video game with animations and realistic game physics using Python.<br>
 Added functionality that supports two player gameplay to appeal to a greater audience.<br>
 Utilized the principles of OOP for code reusability and thoroughly modularized the code.
 
 Link:        https://github.com/avi-saraiya/Byte-Brawl.git
+
+## Google Doc Table Interpreter
+Fetched a given webpage’s content using the requests library and parsed the HTML with BeautifulSoup to extract plain text.<br>
+Extracted grid data from the text using a regular expression pattern and stored it in lists.<br>
+Generated and printed a grid of characters by sorting the coordinates and mapping them to the corresponding characters from the parsed data.
+
+Link: https://github.com/avi-saraiya/Google_doc_table_interpreter.git
 
 ## Rattlesnake - A C Implementation of the Boardgame "Chameleon"
 Implemented the core mechanics of the "Chameleon" board game in C, including player actions, turn-based gameplay, and dynamic game state management.<br>
