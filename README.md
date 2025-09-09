@@ -1,8 +1,7 @@
 # Portfolio
-An overview of who I am, and the projects I have made.
 
 Hey! My name is Avi Saraiya. I'm a Level III Software Engineering and Management Student at McMaster University. Currently, I am looking for a CO-OP in the domain of Cybersecurity.
-I'm always on the lookout for a fun and interesting project to do, and while this is a never-ending quest, here has been my journey so far:
+I'm always on the lookout for a fun and interesting project to do, and while this is a never-ending quest, here's my journey so far:
 
 ## Active Directory Security Lab & Threat Simulation (Homelab)
 Designed and implemented a self-contained Active Directory lab environment for hands-on learning of domain management and network configuration.
