@@ -4,6 +4,15 @@ An overview of who I am, and the projects I have made.
 Hey! My name is Avi Saraiya. I'm a Level III Software Engineering and Management Student at McMaster University. Currently, I am looking for a CO-OP in the domain of Cybersecurity.
 I'm always on the lookout for a fun and interesting project to do, and while this is a never-ending quest, here has been my journey so far:
 
+## Active Directory Security Lab & Threat Simulation (Homelab)
+Designed and implemented a self-contained Active Directory lab environment for hands-on learning of domain management and network configuration.
+Simulated real-world attacks, including brute force attempts, to understand security vulnerabilities and user account protection.
+Leveraged Splunk for telemetry collection and analysis, gaining insights into failed and successful authentication events.
+Deployed Atomic Red Team to test detection capabilities and identify gaps in monitoring and alerting.
+Documented all procedures and results to create a reproducible, educational cybersecurity lab environment. (in progress)
+
+Link: https://github.com/avi-saraiya/Active-Directory-Security-Lab-Threat-Simulation.git
+
 ## AI Tag Scan 
 Created a fullstack application where the user can upload the image of their clothing tag, and recieve tips on how to better care for the clothes based on the information found on the tag.<br>
 Used a Google Lens API to analyze the clothing tag image.<br>
