@@ -1,7 +1,14 @@
 # Portfolio
 
-Hey! My name is Avi Saraiya. I'm a Level III Software Engineering and Management Student at McMaster University. Currently, I am looking for a CO-OP in the domain of Cybersecurity.
+Hey! My name is Avi Saraiya. I'm a Level III Software Engineering and Management Student at McMaster University. Currently, I am looking for a CO-OP in the varied domains of both Cybersecurity and Business, owing to my diverse skillset.
 I'm always on the lookout for a fun and interesting project to do, and while this is a never-ending quest, here's my journey so far:
+
+## Insurance Claims Analytics Dashboard
+This project analyzes over 1,000 medical insurance records to identify trends in charges by age, region, BMI, and smoking status.
+The dataset was cleaned and transformed using Power Query, then visualized in Power BI with KPIs and interactive charts.
+The final dashboard provides insights into key cost drivers and supports data-driven decision-making in insurance pricing.
+
+Link: https://github.com/avi-saraiya/insurance-claims-analytics-dashboard
 
 ## Active Directory Security Lab & Threat Simulation (Homelab)
 Designed and implemented a self-contained Active Directory lab environment for hands-on learning of domain management and network configuration.
