@@ -8,7 +8,7 @@ This project analyzes over 1,000 medical insurance records to identify trends in
 The dataset was cleaned and transformed using Power Query, then visualized in Power BI with KPIs and interactive charts.
 The final dashboard provides insights into key cost drivers and supports data-driven decision-making in insurance pricing.
 
-Link: https://github.com/avi-saraiya/insurance-claims-analytics-dashboard
+Link: https://github.com/avi-saraiya/insurance-charges-analytics-report
 
 ## Active Directory Security Lab & Threat Simulation (Homelab)
 Designed and implemented a self-contained Active Directory lab environment for hands-on learning of domain management and network configuration.
